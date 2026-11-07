@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sleeping_beauty",
+    "title": "The Sleeping Beauty",
+    "author": "Walter Crane",
+    "year": "1875",
+    "genre": "Fairy Tale",
+    "description": "Vintage illustrated classic fairy tale with Victorian woodcuts.",
+    "totalPages": 12,
+    "cover": "assets/books/sleeping_beauty/cover.webp",
+    "pagePattern": "assets/books/sleeping_beauty/pages/page_{page}.webp"
+  },
+  {
+    "id": "beauty_and_the_beast",
+    "title": "Beauty and the Beast",
+    "author": "Walter Crane",
+    "year": "1874",
+    "genre": "Classic Romance",
+    "description": "The timeless fairy tale adorned with ornate picture book art.",
+    "totalPages": 84,
+    "cover": "assets/books/beauty_and_the_beast/cover.jpg",
+    "pagePattern": "assets/books/beauty_and_the_beast/pages/page_{page}.jpg"
+  },
+  {
+    "id": "babys_own_aesop",
+    "title": "The Baby's Own Aesop",
+    "author": "Walter Crane",
+    "year": "1887",
+    "genre": "Fables & Morals",
+    "description": "Charming rhymed fables and morals with vintage woodcut illustrations.",
+    "totalPages": 66,
+    "cover": "assets/books/babys_own_aesop/cover.jpg",
+    "pagePattern": "assets/books/babys_own_aesop/pages/page_{page}.jpg"
+  }
+]
